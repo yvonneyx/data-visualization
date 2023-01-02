@@ -1,0 +1,12 @@
+{
+  "name": "data-visualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "docs"
+  ]
+}
